@@ -1,5 +1,6 @@
 # Echo
 [![Build Status](https://api.travis-ci.org/spinnaker/echo.svg?branch=master)](https://travis-ci.org/spinnaker/echo)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fimosquera%2Fecho.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fimosquera%2Fecho?ref=badge_shield)
 Echo serves as a router for events that happen within Spinnaker. 
 
 ## Outgoing Events
@@ -30,3 +31,7 @@ It does so via two modules:
 ## Running Echo
 This can be done locally via `./gradlew bootRun`, which will start with an embedded cassandra instance. Or by following the instructions using the [Spinnaker installation scripts](http://www.github.com/spinnaker/spinnaker).
  
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fimosquera%2Fecho.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fimosquera%2Fecho?ref=badge_large)
